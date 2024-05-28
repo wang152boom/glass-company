@@ -1,0 +1,7 @@
+# Site settings
+title: Your Personal Blog
+baseurl:
+url: ""
+
+# Build settings
+theme: jekyll-theme-minimal
